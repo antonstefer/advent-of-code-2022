@@ -1,6 +1,6 @@
-mod day_3_task_2;
+mod day_4_task_2;
 mod util;
 
 fn main() {
-    day_3_task_2::execute();
+    day_4_task_2::execute();
 }
